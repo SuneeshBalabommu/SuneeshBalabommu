@@ -1,7 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
 <h1 align="center">Hi 👋, I'm Suneesh Balabommu</h1>
 <h3 align="center">🚀 Passionate Software Developer | Web Developer 🌐 | AI-ML Enthusiast 🤖 | React Native Developer 📱 | Organized and self-motivated.</h3>
-<img src="https://camo.githubusercontent.com/c2a49008b991ea4a1a68dcbe4fb835b142e15ce70ba8f0d4c33ad49ac8e91ab0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966" align="right" width="400">
 
 - 📫 How to reach me **suneeshchinnu333@gmail.com**
 
