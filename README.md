@@ -1,5 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
-<h1 align="center">Hi 👋, I'm Suneesh Balabommu</h1>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=81F729&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Suneesh+Balabommu" alt="Typing SVG" /></a>
+</div> 
 <h3 align="center">🚀 Passionate Software Developer | Web Developer 🌐 | AI-ML Enthusiast 🤖 | React Native Developer 📱 | Organized and self-motivated.</h3>
 
 - 📫 How to reach me **suneeshchinnu333@gmail.com**
