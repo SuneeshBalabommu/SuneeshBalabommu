@@ -1,7 +1,7 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=81F729&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Suneesh+Balabommu" alt="Typing SVG" /></a>
 </div> 
-<h3 align="center">🚀 Passionate Software Developer | Web Developer 🌐 | AI-ML Enthusiast 🤖 | React Native Developer 📱 </h3>
+<h3 align="center">🚀 Passionate Software Developer | Web Developer 🌐 | AI-ML Enthusiast 🤖 | React Native Develope 📱 </h3>
 
 - 📫 How to reach me **suneeshchinnu333@gmail.com**
 
